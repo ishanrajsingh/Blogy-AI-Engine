@@ -1,5 +1,13 @@
 # 🚀 Blogy AI Engine
 
+## Demo Walkthrough - 
+
+
+
+https://github.com/user-attachments/assets/7844a8c3-18c5-4541-86b8-8ee20e2a436f
+
+
+
 ### Prompt → SEO → High-Ranking Blog (End-to-End AI System)
 
 ---
